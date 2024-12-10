@@ -1,6 +1,6 @@
 main
 {
-background-color:black
+background-color:#212529
 }
 .card-body
 {
@@ -14,3 +14,19 @@ color:aliceblue
 {
 color:aliceblue
 }
+footer
+{
+background-color:#212529
+}
+.posicao-bg
+{
+    position: relative;
+    bottom:30px;
+}
+.posicao-indicador
+{
+    
+bottom: 30px;
+
+}
+
